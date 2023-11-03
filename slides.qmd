@@ -12,7 +12,7 @@ format:
 
 #
 
-{{< include ./slides/_intro_quiz.qmd >}}
+<!-- {{< include ./slides/_intro_quiz.qmd >}} -->
 
 {{< include ./slides/_my_day.qmd >}}
 
