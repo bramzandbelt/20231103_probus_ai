@@ -1,0 +1,78 @@
+---
+title: "Artificial Intelligence"
+author: "Bram Zandbelt"
+institute: "Nederlandse Spoorwegen"
+date: "2011-11-03"
+dateformat: long
+format:
+  revealjs:
+    logo: ./media/ns_logo.png
+    css: styles.css
+---
+
+#
+
+{{< include ./slides/_intro_quiz.qmd >}}
+
+{{< include ./slides/_my_day.qmd >}}
+
+{{< include ./slides/_google_ai.qmd >}}
+
+{{< include ./slides/_intro_bram.qmd >}}
+
+# Wat is AI?
+
+{{< include ./slides/_definition_ai.qmd >}}
+
+{{< include ./slides/_narrow_vs_general_ai.qmd >}}
+
+{{< include ./slides/_ai_common_patterns.qmd >}}
+
+# Hoe werkt AI?
+
+{{< include ./slides/_ai_three_components.qmd >}}
+
+{{< include ./slides/_ai_workflow.qmd >}}
+
+# Waarom nu?
+
+{{< include ./slides/_history_of_ai.qmd >}}
+
+{{< include ./slides/_ai_factors_contributing_to_boom.qmd >}}
+
+# Welke kansen biedt AI?<br>En voor wie?
+
+{{< include ./slides/_benefits.qmd >}}
+
+# Wat zijn de risico's van AI?<br>En hoe beperken we die?
+
+{{< include ./slides/_risks_of_ai.qmd >}}
+
+{{< include ./slides/_risk_bias.qmd >}}
+
+{{< include ./slides/_risk_disinformation.qmd >}}
+
+{{< include ./slides/_risk_lack_of_transparency.qmd >}}
+
+{{< include ./slides/_eu_ai_act.qmd >}}
+
+{{< include ./slides/_responsible_ai.qmd >}}
+
+# Conclusie
+
+## Samenvatting
+
+- __Wat is AI?__ 
+  - AI draait om het nabootsen van menselijke vaardigheden door machines. 
+  - Categorieën van AI toepassingen: herkenning, mens-machine interactie, voorspelling & besluitvorming, doelgerichte systemen, autonome systemen, patroon- en anomaliedetectie, personalisatie
+- __Hoe werkt het?__ 
+  - AI-systemen bestaan uit data, model, interface
+  - Modellen worden getraind om patronen te leren herkennen
+- __Wat verklaart de opmars van AI?__ 
+  - Oorzaken van de huidige opmars van AI zijn krachtigere hardware, overvloed aan data, commercialisering, en nieuwe algoritmes
+- __Welke kansen biedt AI? En wie profiteren daarvan?__ 
+  - AI kan fouten reduceren, efficiëntie vergroten, repetitief/gevaarlijk werk overnemen, maatwerk bieden, en is fulltime beschikbaar
+  - Mensen, bedrijven, en de samenleving als geheel kunnen profiteren van AI
+- __Welke risico's kleven er aan AI? En hoe kunnen we die beperken?__
+  - AI kent tal van risico's en kan worden misbruikt
+  - De aanstaande EU AI-verordening en _Responsible AI practices_ pogen deze risico's te beperken

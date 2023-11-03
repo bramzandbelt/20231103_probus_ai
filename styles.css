@@ -1,0 +1,428 @@
+
+
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+
+ .reveal-viewport {
+	@include bodyBackground();
+	background-color: $backgroundColor;
+}
+
+.reveal {
+	font-family: Helvetica;
+}
+
+.reveal ::selection {
+	color: $selectionColor;
+	background: #FFC917;
+	text-shadow: none;
+}
+
+.reveal ::-moz-selection {
+	color: $selectionColor;
+	background: #FFC917;
+	text-shadow: none;
+}
+
+.reveal .slides {
+	font-family: Helvetica;
+	text-align: left;
+	font-size: 75%;
+	color: #838390;
+}
+
+.reveal .slides .subtitle {
+	color: #003082;
+	font-size: 120%;
+	font-style: italic;
+}
+
+.reveal .slides .footer {
+	position: absolute;
+	top: 95%;
+	text-align:left;
+	width:100%;
+	font-size: 0.5em;
+}
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+	margin: $headingMargin;
+	color: $headingColor;
+	font-family: Helvetica;
+	font-weight: $headingFontWeight;
+	line-height: $headingLineHeight;
+	letter-spacing: $headingLetterSpacing;
+	text-transform: $headingTextTransform;
+	word-wrap: break-word;
+}
+
+.reveal h1 {font-size: 200%; font-weight: bold; color: #003082; text-align: right;} /* $heading1Size  #FFC917 */
+.reveal h2 {font-size: 110%; font-weight: bold; color: #003082;} /* $heading2Size */
+.reveal h3 {font-size: 90%; color: #003082;} /* $heading3Size */
+.reveal h4 {font-size: 80%; color: #003082;} /* $heading4Size */
+
+/*********************************************
+ * OTHER
+ *********************************************/
+
+.reveal p {
+	margin: $blockMargin 0;
+	line-height: 1.3;
+	font-size: 75%;
+}
+
+/* Remove trailing margins after titles */
+.reveal h1:last-child,
+.reveal h2:last-child,
+.reveal h3:last-child,
+.reveal h4:last-child,
+.reveal h5:last-child,
+.reveal h6:last-child {
+	margin-bottom: 0;
+}
+
+/* Ensure certain elements are never larger than the slide itself */
+.reveal img,
+.reveal video,
+.reveal iframe {
+	max-width: 95%;
+	max-height: 95%;
+}
+.reveal strong,
+.reveal b {
+	font-weight: bold;
+	color: #003082;
+}
+
+.reveal em {
+	font-style: italic;
+}
+
+.reveal ol,
+.reveal dl,
+.reveal ul {
+	display: inline-block;
+	text-align: left;
+	line-height: 1.3;
+	font-size: 75%;
+	margin: 0 0 0 1em;
+}
+
+.reveal ol {
+	list-style-type: decimal;
+}
+
+.reveal ul {
+	list-style-type: disc;
+}
+
+.reveal ul ul {
+	list-style-type: square;
+}
+
+.reveal ul ul ul {
+	list-style-type: circle;
+}
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul {
+	display: block;
+	margin-left: 40px;
+}
+
+.reveal dt {
+	font-weight: bold;
+}
+
+.reveal dd {
+	margin-left: 40px;
+}
+
+.reveal blockquote {
+	display: block;
+	position: relative;
+	width: 70%;
+	margin: $blockMargin auto;
+	padding: 5px;
+
+	font-style: italic;
+	background: rgba(255, 255, 255, 0.05);
+	box-shadow: 0px 0px 2px rgba(0,0,0,0.2);
+}
+	.reveal blockquote p:first-child,
+	.reveal blockquote p:last-child {
+		display: inline-block;
+	}
+
+.reveal q {
+	font-style: italic;
+}
+
+.reveal pre  {
+	margin-left: 0px;
+	font-size: 75%;
+	background-color: #f5f5f5; /* I don't think this matters */
+}
+
+.reveal pre code {
+	display: block;
+	padding: 5px;
+	overflow: auto;
+	max-height: 400px;
+	word-wrap: normal;
+}
+
+.reveal pre.text code {  /* code section when highlight=FALSE*/
+	white-space: pre-line; /* wrapping, although it overflows*/
+}
+
+.reveal table {
+	margin: auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 70% !important;
+	width: 100%;
+}
+
+.reveal table th {
+	font-weight: bold;
+}
+
+.reveal table th,
+.reveal table td {
+	text-align: left;
+	padding: 0.2em 0.5em 0.2em 0.5em;
+	border-bottom: 1px solid;
+}
+
+.reveal table th[align="center"],
+.reveal table td[align="center"] {
+	text-align: center;
+}
+
+.reveal table th[align="right"],
+.reveal table td[align="right"] {
+	text-align: right;
+}
+
+.reveal table tbody tr:last-child th,
+.reveal table tbody tr:last-child td {
+	border-bottom: none;
+}
+
+.reveal sup {
+	vertical-align: super;
+	font-size: smaller;
+}
+
+.reveal sub {
+	vertical-align: sub;
+	font-size: smaller;
+}
+
+.reveal small {
+	display: inline-block;
+	font-size: 0.6em;
+	line-height: 1.2em;
+	vertical-align: top;
+}
+
+.reveal small * {
+	vertical-align: top;
+}
+
+.reveal img {
+	margin: $blockMargin 0;
+	border:0px;
+}
+
+
+/*********************************************
+ * LINKS
+ *********************************************/
+
+.reveal a {
+	color: #0063D3; /* $linkColor; */
+	text-decoration: none;
+	transition: color .15s ease;
+}
+	.reveal a:hover {
+		color: $linkColorHover;
+		text-shadow: none;
+		border: none;
+	}
+
+.reveal .roll span:after {
+	color: #fff;
+	background: darken( #0063D3, 15% ); /* darken( $linkColor, 15% ); */
+}
+
+
+/*********************************************
+ * Frame helper
+ *********************************************/
+
+.reveal .r-frame {
+	border: none; /* 4px solid $mainColor; */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.reveal a .r-frame {
+	transition: all .15s linear;
+}
+
+.reveal a:hover .r-frame {
+	border-color: #0063D3; /* $linkColor; */
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+}
+
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+
+.reveal .controls {
+	color: #0063D3; /* $linkColor; */
+}
+
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+
+.reveal .progress {
+	background: rgba(0,0,0,0.2);
+	color: $linkColor;
+}
+
+/*********************************************
+ * PRINT BACKGROUND
+ *********************************************/
+ @media print {
+    .backgrounds {
+        background-color: #FFFFFF; /* $backgroundColor; */
+    }
+}
+
+/*********************************************
+ * CUSTOM
+ *********************************************/
+
+/* Fix text on title page */
+h1.title {
+	text-align: center;
+}
+
+.date {
+	color: #003082;
+}
+
+.author {
+	color: #003082;
+}
+
+.institute {
+	color: #003082;
+}
+
+/* Fix formatting of ordered and unordered lists */
+.reveal ul, .reveal ol {
+	width: auto !important;
+	overflow: hidden !important;
+	padding: revert !important;
+	display: block;
+	margin-left: 0px !important;
+}
+
+/* Fixing font size for nested lists */
+.reveal ul ul {
+	font-size: 90%;
+}
+.reveal ul ul ul {
+    font-size: 100%;
+}
+
+/* Enable simple two column lay-out with image and text */
+.inline-img {
+	width: 45% !important;
+	float: left;
+	margin-right: 5% !important;
+	margin-bottom: 100% !important;
+	height: auto !important;
+}
+
+/* Enable a bit more sophisticated multi-column layout, works for 2+ columns */
+.multiCol {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    text-align: left;
+}
+
+.multiCol .col {
+	display: table-cell;
+	vertical-align: top;
+	width: 50%;
+	padding: 2% 3% 2% 0;
+}
+
+/* Format images */
+.reveal section img {
+	border: 0px; /* 0px no border but still shadow */
+	box-shadow:none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.quarto-title-author {
+	color: #003082;
+	vertical-align: top;
+}
+
+.reveal .title-slide p {
+	font-size: 32px;
+	color: #003082;
+	text-align: right;
+}
+
+.sectionhead {
+	font-size: 1em;
+	text-align: center;
+	color: $presentation-heading-color;
+	font-family: Helvetica;
+	background-color: #d3d3d3;
+	margin: 1px;
+	padding: 2px 2px 2px 2px;
+	width: 120px;
+	border-left: 10px solid;
+}
+
+.textbox {
+	font-size: 0.8em;
+	text-align: center;
+	color: $presentation-heading-color;
+	font-family: Helvetica;
+	background-color: #d3d3d3;
+	color: #003082;
+	height: 100px;
+	padding: 2px 2px 2px 2px;
+}
+
+.twocolumn {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px;
+	text-align: left;
+ }
