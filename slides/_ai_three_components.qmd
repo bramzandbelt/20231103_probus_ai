@@ -1,0 +1,23 @@
+## Een AI-oplossing bestaat uit drie elementen: data, model, interface
+
+![](./media/how_ai_works/ai_systems_consist_of_three_elements/ai_systems_consist_of_three_elements.001.png){fig-align="center"}
+
+::: {.footer}
+Bron: [Leek, Jeff. “What Is Artificial Intelligence? A Three Part Definition.” Simply Statistics, 19 Jan. 2017](https://simplystatistics.org/posts/2017-01-19-what-is-artificial-intelligence/) 
+:::
+
+## Een AI-oplossing bestaat uit drie elementen: data, model, interface
+
+![](./media/how_ai_works/ai_systems_consist_of_three_elements/ai_systems_consist_of_three_elements.002.png){fig-align="center"}
+
+
+::: {.footer}
+Bron: [Leek, Jeff. “What Is Artificial Intelligence? A Three Part Definition.” Simply Statistics, 19 Jan. 2017](https://simplystatistics.org/posts/2017-01-19-what-is-artificial-intelligence/) 
+:::
+
+## Een AI-oplossing bestaat uit drie elementen: data, model, interface
+![](./media/how_ai_works/ai_systems_consist_of_three_elements/ai_systems_consist_of_three_elements.003.png){fig-align="center"}
+
+::: {.footer}
+Bron: [Leek, Jeff. “What Is Artificial Intelligence? A Three Part Definition.” Simply Statistics, 19 Jan. 2017](https://simplystatistics.org/posts/2017-01-19-what-is-artificial-intelligence/) 
+:::

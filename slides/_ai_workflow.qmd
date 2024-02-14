@@ -1,0 +1,28 @@
+## Een model moet worden getraind om patronen te leren herkennen
+
+![](./media/how_ai_works/ai_workflow/ai_workflow.001.png){fig-align="center"}
+
+## Een model moet worden getraind om patronen te leren herkennen
+![](./media/how_ai_works/ai_workflow/ai_workflow.002.png){fig-align="center"}
+
+## Een model moet worden getraind om patronen te leren herkennen
+![](./media/how_ai_works/ai_workflow/ai_workflow.003.png){fig-align="center"}
+
+## Een model moet worden getraind om patronen te leren herkennen
+![](./media/how_ai_works/ai_workflow/ai_workflow.004.png){fig-align="center"}
+
+## Een model moet worden getraind om patronen te leren herkennen
+![](./media/how_ai_works/ai_workflow/ai_workflow.005.png){fig-align="center"}
+
+## Een model moet worden getraind om patronen te leren herkennen
+![](./media/how_ai_works/ai_workflow/ai_workflow.006.png){fig-align="center"}
+
+## Een model moet worden getraind om patronen te leren herkennen
+![](./media/how_ai_works/ai_workflow/ai_workflow.007.png){fig-align="center"}
+
+## Een model moet worden getraind om patronen te leren herkennen
+![](./media/how_ai_works/ai_workflow/ai_workflow.008.png){fig-align="center"}
+
+::: {.notes}
+Inspiration: https://www.nvidia.com/en-us/glossary/data-science/machine-learning/
+:::

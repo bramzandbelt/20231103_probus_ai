@@ -1,0 +1,7 @@
+## De AI-verordening: de allereerste uitgebreide AI-wet ter wereld
+
+![](./media/eu_ai_act/eu_ai_act.jpg){fig-align="center"}
+
+::: {.footer}
+Bronnen: [Europees Parlement](https://www.europarl.europa.eu/news/nl/headlines/society/20230601STO93804/ai-verordening-eerste-regels-voor-artificiele-intelligentie), [Díaz-Rodríguez et al. (2023) Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523002129)
+:::

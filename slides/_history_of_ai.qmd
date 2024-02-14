@@ -1,0 +1,14 @@
+## AI is eerder een grootse toekomst toegedicht
+
+![](./media/ai_timeline.png){fig-align="center"}
+
+::: {.footer}
+Bron: [Brightwork Research & Analysis](https://www.brightworkresearch.com/why-did-ai-rise-for-a-third-time-after-the-1st-and-2nd-ai-winters/)
+:::
+
+::: {.notes}
+- Sinds het ontstaan van de term AI in de jaren 50 heeft AI de toegedichte beloftes meerdere keren niet kunnen waarmaken
+- De geschiedenis van AI kenmerkt zich door afwisselende periodes van hooggespannen verwachtingen, bekend als AI-zomers, en periodes van desillusie, bekend als AI-winters, waarin de interesse in AI afgenomen is en ontwikkelingen stilstaan
+- Waarom zouden we nu 
+
+:::

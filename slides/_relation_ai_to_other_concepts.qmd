@@ -1,0 +1,42 @@
+## Relaties tussen verschillende concepten
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+### 
+
+::: {.textbox .absolute top=200}
+Wat is het doel?
+:::
+
+:::
+
+::: {.column width="25%"}
+### Business intelligence
+
+::: {.textbox .absolute top=200}
+Rapportage, inspiratie, exploratie
+:::
+
+:::
+
+::: {.column width="25%"}
+### Statistiek & Operations Research
+
+::: {.textbox .absolute top=200}
+Weloverwogen besluitvorming
+:::
+
+:::
+
+::: {.column width="25%"}
+### Machine Learning & AI
+
+::: {.textbox .absolute top=200}
+(Semi-)automatische besluitvorming
+:::
+
+:::
+
+::::

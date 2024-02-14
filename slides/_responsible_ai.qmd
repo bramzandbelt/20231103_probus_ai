@@ -1,0 +1,27 @@
+## Borgen van verantwoord AI-gebruik
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+![](./media/eu_ai_act/ai_principles.jpg){fig-align="center"}
+
+:::
+
+::: {.column width="40%"}
+### Responsible AI principes
+- Eerlijkheid
+- Transparantie
+- Uitlegbaarheid
+- Mensgericht
+- Waarborging van privacy en security
+- Robuustheid
+- Menselijk toezicht
+
+:::
+
+::::
+
+::: {.footer}
+Bron: [Telefónica](https://www.telefonica.com/en/communication-room/reports/responsible-use-of-ai/)
+:::

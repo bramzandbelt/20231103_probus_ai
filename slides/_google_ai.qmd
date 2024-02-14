@@ -1,0 +1,7 @@
+## Als je Google producten gebruikt, gebruik je AI
+
+![](./media/google_products_with_ai.png){fig-align="center"}
+
+::: {.footer}
+Bron: [Burr, Justin. “9 Ways We Use AI in Our Products.” Google, Google, 19 Jan. 2023](blog.google/technology/ai/9-ways-we-use-ai-in-our-products/). 
+:::

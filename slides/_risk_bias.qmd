@@ -1,0 +1,10 @@
+## Vooroordelen en discriminatie
+
+![](./media/ai_risks/bias_bmj.jpg){fig-align="center"}
+
+::: {.footer}
+
+Bron: [British Medical Journal](https://www.bmj.com/content/372/bmj.n304)
+Meer informatie: [World Economic Forum](https://www.weforum.org/agenda/2021/07/ai-machine-learning-bias-discrimination/), [Ionica Smeets over de zelfversterkende feedbackloop](https://www.ionica.nl/510-staandehoudingen-en-de-zelfversterkende-feedback-loop/)
+
+:::

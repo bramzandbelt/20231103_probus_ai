@@ -1,0 +1,3 @@
+## Gebrek aan transparantie
+
+![](./media/ai_risks/black_box.png){fig-align="center"}

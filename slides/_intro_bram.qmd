@@ -1,0 +1,24 @@
+## Van breinen naar treinen
+
+### {{< fa brain >}} Breinen
+
+| Wat | Waar | Wanneer |
+| ---------------- | ---- | -- |
+| BSc Biomedical science | VU Amsterdam | '01 - '04 |
+| MSc Neuroscience | VU Amsterdam | '04 - '06 |
+| PhD Cognitive Neuroscience: analyse breindata  | Utrecht University | '06 - '11 |
+| Postdoc 1 Cognitive Neuroscience: modelen van breindata | Vanderbilt University | '11 - '14 |
+| Postdoc 2 Cognitive Neuroscience: modelen & analyse van breindata | Radboud University | '14 - '19 |
+
+: {tbl-colwidths="[65,25,10]"}
+
+<br> 
+
+### {{< fa train >}} Treinen
+
+| Wat | Waar | Wanneer |
+| ---------------- | ---- | -- |
+| Data Scientist | Nederlandse Spoorwegen | '19 - nu |
+| Data Science Tech Lead | Nederlandse Spoorwegen | '22 - nu |
+
+: {tbl-colwidths="[65,25,10]"}

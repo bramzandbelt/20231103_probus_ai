@@ -1,0 +1,159 @@
+## Mijn AI-gebruik deze ochtend
+
+:::: {.columns}
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=2}
+
+### 06:00
+Telefoon ontgrendelen
+![](./media/examples/iphone_unlock.png){fig-align="center"}
+:::
+
+:::
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=2}
+::: {.fragment .semi-fade-out fragment-index=3}
+
+### 06:01
+Slaapanalyse bekijken
+![](./media/examples/sleep_analysis.png){fig-align="center"}
+
+:::
+:::
+
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=4}
+
+### 06:50
+Gelezen tekst samenvatten
+![](./media/examples/tech_strategy_patterns_book.jpg){fig-align="center"}
+:::
+
+:::
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=5}
+
+### 07:45
+Treinreis plannen o.b.v. drukte
+![](./media/examples/ns_app.jpeg){fig-align="center"}
+:::
+
+:::
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=5}
+
+### 07:50
+Inschatten OV-fiets beschikbaarheid
+![](./media/examples/ov_fiets_availability.jpeg){fig-align="center"}
+:::
+
+:::
+
+::::
+
+::: {.footer}
+Zie ook: [https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10004.htm](https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10004.htm)
+:::
+
+## Mijn AI-gebruik deze ochtend
+
+::: {.columns}
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=1}
+::: {.fragment .semi-fade-out fragment-index=2}
+
+### 07:55
+Geprioriteerde emails lezen
+![](./media/examples/email_other.png){fig-align="center"}
+
+:::
+:::
+
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=2}
+::: {.fragment .semi-fade-out fragment-index=3}
+
+### 08:00
+Stofzuigerrobot aanzetten
+![](./media/examples/irobot_vacuum_cleaner.jpeg){fig-align="center"}
+
+:::
+:::
+
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=3}
+::: {.fragment .semi-fade-out fragment-index=4}
+
+### 08:00
+Dweilrobot configureren
+![](./media/examples/irobot_mop.png){fig-align="center"}
+
+:::
+:::
+
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=4}
+::: {.fragment .semi-fade-out fragment-index=5}
+
+### 08:10
+Aanbevolen muziek luisteren
+![](./media/examples/spotify_recommendations.jpeg){fig-align="center"}
+
+:::
+:::
+
+:::
+
+::: {.column width="20%"}
+
+::: {.fragment fragment-index=5}
+
+### 08:15
+Fietsen vastleggen
+
+<br>
+<br>
+
+![](./media/examples/apple_watch_record_cycling.png){fig-align="center"}
+
+:::
+
+:::
+
+::::
+
+::: {.footer}
+Zie ook: [https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10004.htm](https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10004.htm)
+:::
+
+::: {.notes}
+Binnen twee uur tijd heb ik al tenminste 10 keer gebruik gemaakt van AI
+:::

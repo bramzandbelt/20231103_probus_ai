@@ -1,0 +1,39 @@
+## Intelligentie
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+> het vermogen om informatie af te leiden, van ervaringen te leren, zich aan te passen aan de omgeving, en correct toepassen van redenatie en gedachtegang
+
+Intelligentie integreert cognitieve functies, zoals perceptie, aandacht, geheugen, taal en motorische planning
+
+
+:::
+
+::: {.column width="50%"}
+
+### AI draait om het nabootsen van menselijke cognitieve functies
+
+| __Menselijke vaardigheid__ | __AI discipline__ ||
+| ------------------ | ------------- |
+| {{< bi eye >}} Visuele perceptie | Computer vision |
+| {{< bi ear >}} Auditieve perceptie | Speech recognition |
+| {{< fa scale-unbalanced >}} Leren en besluiten | Machine learning |
+| {{< bi alphabet >}} Taalverwerking | Natural language processing (NLP) |
+| {{< bi person-walking >}} Motor / actie planning | Robotics |
+
+:::
+
+::::
+
+
+::: {.notes}
+
+
+> the ability to derive information, learn from experience, adapt to the environment, understand, and correctly utilize thought and reason
+Source: APA dictionary
+
+> ‘Intelligentie is een __zeer algemene mentale vaardigheid__ die onder andere inhoudt: het redeneervermogen, het planningsvermogen, het vermogen problemen op te lossen, het abstracte redeneervermogen, het vermogen complexe ideeën te begrijpen en het vermogen om snel te leren uit ervaring. Intelligentie is niet gelijk aan kennis uit boeken of aan academische vaardigheid. Intelligentie is meer dan het vermogen om intelligentietesten goed te kunnen uitvoeren, het is een bredere, veelomvattende vaardigheid die ons in staat stelt onze omgeving te begrijpen, een betekenis te geven aan dingen en gebeurtenissen en te beslissen wat voor actie we moeten ondernemen.’
+
+:::

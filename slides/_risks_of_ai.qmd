@@ -1,0 +1,120 @@
+## Huidige AI-systemen kunnen een scala aan risico's hebben
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+::: {.textbox style="background-color: #FFC917;"}
+__Gebrek aan transparantie__ <br> onuitlegbaarheid wekt wantrouwen en weerstand op
+:::
+
+<br>
+
+::: {.textbox}
+__Cybercriminaliteit__ <br> AI misbruikt om beveiligings-maatregelen te omzeilen
+
+<!-- 
+Voorbeelden: 
+- deepfake van Knab bank CEO
+- thispersondoesnotexist.com
+ -->
+:::
+
+<br>
+
+::: {.textbox}
+__Economische ongelijkheid__ <br> disproprotioneel voordeel voor rijke individuen en bedrijven
+:::
+<!-- 
+imf.org: How Artificial Intelligence could widen the gap between rich and poor nations
+ -->
+
+<br>
+
+::: {.textbox style="background-color: #FFC917;"}
+__Desinformatie & manipulatie__ <br> vormen bedreiging voor de democratie
+:::
+
+:::
+
+::: {.column width="25%"}
+
+::: {.textbox style="background-color: #FFC917;"}
+__Vooroordelen, discriminatie__ <br> instandhouding en versterking
+:::
+
+<br>
+
+::: {.textbox}
+__Concentratie van macht__ <br> AI ontwikkeling wordt gedomineerd door big tech
+:::
+
+<br>
+
+::: {.textbox}
+__Juridische kaders__ <br> m.b.t. aanprakelijkheids en intellectueel eigendom
+:::
+
+<br>
+
+::: {.textbox}
+__Onvoorziene gevolgen__ <br> compolexe AI systemen onverwacht gedrag vertonen
+:::
+
+:::
+
+::: {.column width="25%"}
+
+::: {.textbox}
+__Privacyschending__ <br> verzameling van veel persoonsgegevens
+:::
+
+<br>
+
+::: {.textbox}
+__Overmatige afhankelijkheid__ <br> verlies van creativiteit, kritisch denkvermogen
+:::
+
+<br>
+
+::: {.textbox}
+__AI-wapenwedloop__ <br> ontwikkeling en gebruik van AI om schade aan te richten
+:::
+
+<br>
+
+:::
+
+::: {.column width="25%"}
+
+::: {.textbox}
+__Ethische dilemma's__ <br> morele waarden verwerken in AI systemen is ingewikkeld
+:::
+
+<br> 
+
+::: {.textbox}
+__Banenverlies__ <br> door automatisering van werkzaamheden
+<!-- 
+- Demonstraties van scriptschrijvers en acteurs in Hollywood
+- Nederlandse stemacteurs zijn bang voor verlies van werk (nos.nl)
+ -->
+
+:::
+
+<br>
+
+::: {.textbox}
+__Sociale afstomping__ <br> verminderde empathie, sociale vaardigheden
+:::
+
+:::
+
+::::
+
+::: {.footer}
+
+Bron: [Bernard Marr @ Forbes](https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/)
+:::

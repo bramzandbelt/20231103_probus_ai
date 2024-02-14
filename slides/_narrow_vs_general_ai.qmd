@@ -1,0 +1,7 @@
+## Specifieke versus generieke AI
+
+![](./media/narrow_vs_general_ai.jpg){fig-align="center"}
+
+::: {.footer}
+Bron: [UnicMinds(https://unicminds.com/true-general-ai-has-to-self-learn-not-only-to-do-something-it-is-programmed-for/)]
+:::

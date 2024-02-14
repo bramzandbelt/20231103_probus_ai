@@ -1,0 +1,43 @@
+## AI: nabootsen van menselijke vaardigheden door machines
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](./media/what_is_ai/russell_norvig_definition_ai.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+| __Menselijke vaardigheid__ | __AI discipline__ ||
+| ------------------ | ------------- |
+| {{< bi eye >}} Visuele waarneming | Computer vision |
+| {{< bi ear >}} Auditieve waarneming | Speech recognition |
+| {{< fa scale-unbalanced >}} Leren en besluiten | Machine learning |
+| {{< fa comments >}} Taalverwerking | Natural language processing |
+| {{< fa person-walking >}} Motor / actie planning | Robotics |
+
+:::
+
+::::
+
+
+::: {.footer}
+
+Bronnen: [Europees Parlement](https://www.europarl.europa.eu/news/nl/headlines/society/20200827STO85804/wat-is-artificiele-intelligentie-en-hoe-wordt-het-gebruikt); [Russell, S. J., & Norvig, P. (2010). Artificial intelligence a modern approach. London.](https://aima.cs.berkeley.edu/)
+
+:::
+
+::: {.notes}
+
+- Doel van AI: het begrijpen en bouwen van intelligente systemen (twee assen: bouwen/begrijpen vs. menselijk/optimaal)
+- Zwaartepunt van vakgebied verschuift van begrijpen naar bouwen van intelligente systemen
+    - Illustratie: Google NGram + explosie van Large Language Models
+
+- Intelligentie:
+    "Intelligentie is een zeer algemene mentale vaardigheid die onder andere inhoudt: het redeneervermogen, het planningsvermogen, het vermogen problemen op te lossen, het abstracte redeneervermogen, het vermogen complexe ideeën te begrijpen en het vermogen om snel te leren uit ervaring. Intelligentie is niet gelijk aan kennis uit boeken of aan academische vaardigheid. Intelligentie is meer dan het vermogen om intelligentietesten goed te kunnen uitvoeren, het is een bredere, veelomvattende vaardigheid die ons in staat stelt onze omgeving te begrijpen, een betekenis te geven aan dingen en gebeurtenissen en te beslissen wat voor actie we moeten ondernemen."
+
+Link: https://www1.udel.edu/educ/gottfredson/reprints/1994WSJmainstream.pdf
+
+:::

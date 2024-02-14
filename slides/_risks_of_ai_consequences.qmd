@@ -1,0 +1,113 @@
+## AI-systemen kunnen een scala aan risico's hebben
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+::: {.textbox}
+__Gebrek aan transparantie__ <br> kan leiden tot wantrouwen en weerstand
+:::
+
+<br>
+
+::: {.textbox style="background-color: red;"}
+__Cybercriminaliteit__ <br> AI misbruikt om beveiligings-maatregelen te omzeilen
+:::
+
+<br>
+
+::: {.textbox}
+__Economische ongelijkheid__ <br> disproprotioneel voordeel voor rijke individuen en bedrijven
+:::
+
+<br>
+
+::: {.textbox}
+__Desinformatie en manipulatie__ <br> vormen bedreiging van de democratie
+:::
+
+:::
+
+::: {.column width="25%"}
+
+::: {.textbox}
+__Vooroordelen en discriminatie__ <br> instandhouding en versterking
+:::
+
+<br>
+
+::: {.textbox}
+__Concentratie van macht__ <br> vergroten van ongelijkheid doordat ontwikkeling van AI wordt gedomineerd door een handvol bedrijven (big tech) en overheden
+:::
+
+<br>
+
+::: {.textbox}
+__Juridische en wettelijke kaders__ <br> regelgeving m.b.t. aanprakelijkheid, intellectueel eigendom
+:::
+
+<br>
+
+::: {.textbox}
+__Onvoorziene gevolgen__ <br> complexiteit en zonder menselijk toezicht kunnen AI systemen onverwacht gedrag vertonen
+:::
+
+:::
+
+::: {.column width="25%"}
+
+::: {.textbox}
+__Privacyschending__ <br> verzameling van grote hoeveelheden persoonsgegevens
+:::
+
+<br>
+
+::: {.textbox}
+__Overmatige afhankelijkheid__ <br> verlies van creativiteit, kritisch denkvermogen
+:::
+
+<br>
+
+::: {.textbox}
+__AI-wapenwedloop__ <br> ontwikkeling en gebruik van AI om schade aan te richten
+:::
+
+<br>
+
+::: {.textbox}
+__Voortbestaan mensheid__ <br> AGI-systemen hebben mogelijk andere waarden en prioriteiten 
+:::
+
+:::
+
+::: {.column width="25%"}
+
+::: {.textbox}
+__Ethische dilemma's__ <br> morele waarden verwerken in AI systemen is ingewikkeld
+:::
+
+<br> 
+
+::: {.textbox}
+__Banenverlies__ <br> AI kan een deel van werkzaamheden automatiseren
+:::
+
+<br>
+
+::: {.textbox}
+__Sociale afstomping__ <br> verminderde empathie, sociale vaardigheden
+:::
+
+:::
+
+::::
+
+::: {.footer}
+
+Bron: [Bernard Marr @ Forbes](https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/)
+
+[Stanford Study](https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-1-0#misinformation)
+
+:::
